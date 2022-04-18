@@ -22,4 +22,5 @@ Este proyecto pretende clasificar imágenes de lunares cutáneos para identifica
 3. Normalización de las imágenes.
 
 **Nota**
-> Los datasets procesados de imágenes pesan demasiado para subirlos.
+> Se ha subido una muestra del dataset de prueba ya que el dataset completo pesa demasiado.
+> La columna 'target' contiene los valores a predecir y que permitirán evaluar su funcionamiento.
